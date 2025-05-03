@@ -1,0 +1,1 @@
+# Deprem_Analiz
