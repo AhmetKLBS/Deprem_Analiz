@@ -5,5 +5,9 @@ NOT: Program çalışmaz ise "Python" indirip ardından komut ekranından "C:\pr
 
 !!!Program içinden görüntüler!!!
 ![image](https://github.com/user-attachments/assets/32b945f5-43df-41d7-936a-5a6cbdf5fe9d)
-<<Analiz Tamamlandıktan Sonra açılan Ekran>>
+<<Analiz Tamamlandıktan Sonra açılan Ekranlar>>
+![image](https://github.com/user-attachments/assets/03670763-9a08-4322-aa8a-2a8108aaba65)
+
+
+
 ![image](https://github.com/user-attachments/assets/19324899-ce92-4218-a112-a88000f2c4d7)
