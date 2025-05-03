@@ -1,0 +1,12 @@
+requirements.txt
+joblib==1.4.2
+requests==2.32.3
+statistics
+json
+pandas==1.4.4
+geopandas==0.14.4
+folium==0.19.5
+PyQt6==6.9.0
+PyQt6-WebEngine==6.9.0
+matplotlib==3.6.3
+
